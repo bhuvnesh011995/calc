@@ -1,0 +1,7 @@
+.output{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(193, 205, 201);
+}

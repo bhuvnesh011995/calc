@@ -1,0 +1,8 @@
+.keyboard{
+display: grid;
+grid-template-columns: auto auto auto auto auto;
+border: 2px solid gray;
+text-align: center;
+font-size: 30px;
+height:200px;
+}
